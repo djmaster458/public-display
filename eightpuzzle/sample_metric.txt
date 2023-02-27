@@ -1,0 +1,10 @@
+Manhattan Distance Metric on 40 puzzles:
+Avg. Number of Moves for Shortest Path: 21.65
+Avg. Maximal Queue Size: 933.7
+Avg. Runtime (sec): 0.135897845
+------------------------
+Hamming Distance Metric on 40 puzzles:
+Avg. Number of Moves for Shortest Paths: 21.65
+Avg. Maximal Queue Size: 5436.275
+Avg. Runtime (sec): 0.9708738174999999
+------------------------
